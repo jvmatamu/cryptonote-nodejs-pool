@@ -111,6 +111,7 @@ Community / Support
 * https://bytecoin.pt
 * http://ita.minexmr24.ru/
 * https://pool.croatpirineus.cat
+* https://matamu.me
 
 Usage
 ===
